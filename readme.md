@@ -18,10 +18,6 @@ O Projeto B7Burger é uma landing page desenvolvida como parte do módulo de HTM
 - **/index.html:** Página principal do projeto.
 
 
-## Deploy
-
-O projeto está disponível [aqui](#https://b7burger-project.vercel.app/).
-
 ## Autor
 
 - [Wesley Batista Santana]
