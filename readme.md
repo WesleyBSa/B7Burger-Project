@@ -20,7 +20,7 @@ O Projeto B7Burger é uma landing page desenvolvida como parte do módulo de HTM
 
 ## Deploy
 
-O projeto está disponível [aqui](#inserir-link-do-deploy).
+O projeto está disponível [aqui](#https://b7burger-project.vercel.app/).
 
 ## Autor
 
